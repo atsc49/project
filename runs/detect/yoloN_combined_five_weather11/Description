@@ -1,0 +1,21 @@
+## 📂 Model 
+- Model Name: Yolo Nano version 
+
+## 📊 Dataset Information
+- Dataset Name: 1st Dataset 
+                2nd Dataset 
+- Dataset Source/Link: given in reade=me file 
+- Annotation Format:YOLO txt format
+
+## ⚙️ Training Details
+- Epochs: 40 on 1st dataset 
+- Batch Size: 16- 
+- Loss Function:Binary Cross Entropy
+- Hardware Used: NVIDIA RTX 3060 GPU
+
+---
+## 📦 Files Included
+- `best.pt` → Final trained weights  
+- `last.pt` → Last checkpoint weights  
+- `data.yaml` → Dataset configuration  
+---
