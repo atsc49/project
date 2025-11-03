@@ -20,7 +20,8 @@ This project focuses on building a **real-time pothole detection system** using 
 ## 🗂️ Datasets Used
 The model was trained on several open-source pothole datasets combined for better generalization.  
 
--Dataset Link - https://drive.google.com/drive/folders/1yUe73WnPKcdk1fVt9_fJRAJsvvCnOFJs?usp=drive_link
+-1st Dataset Link - https://drive.google.com/drive/folders/1yUe73WnPKcdk1fVt9_fJRAJsvvCnOFJs?usp=drive_link
+-2nd Dataset link - https://www.kaggle.com/datasets/aryashah2k/potholenet
 
 Each dataset contributed to covering diverse road surfaces, weather conditions, and pothole shapes for a more generalized model.
 
