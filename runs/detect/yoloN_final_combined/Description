@@ -1,5 +1,11 @@
+## Folder Name Description
+yoloN_final_combined: Yolo Model Nano on Dataset 1 (two subdatasets)
+
 ## 📂 Model 
 - Model Name: Yolo Nano version 11
+
+## Dataset 1
+- Dataset 1 includes two subdatasets.
 
 ## 📊 Dataset Information
 - Dataset Name: 1st Dataset 
