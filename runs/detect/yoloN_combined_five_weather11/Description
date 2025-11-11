@@ -1,15 +1,24 @@
+## Folder Name Description
+yoloN_final_combined: Yolo Model Nano on Dataset 1 (two subdatasets) and Dataset 2 
+
 ## 📂 Model 
 - Model Name: Yolo Nano version 11
 
+## Dataset 1
+- Dataset 1 includes two subdatasets.
+
+## Dataset 2 
+- Dataset 2 includes merged dataset having 5 weather images
+
 ## 📊 Dataset Information
-- Dataset Name: 1st Dataset 
-                2nd Dataset 
+- Dataset Name: 1st Dataset and 2nd Dataset
 - Dataset Source/Link: given in readmeMD file 
 - Annotation Format:YOLO txt format
 
 ## ⚙️ Training Details
 - Epochs: 40 on 1st dataset 
-- Batch Size: 16- 
+          40 on 2nd dataset
+- Batch Size: 16
 - Loss Function:Binary Cross Entropy
 - Hardware Used: NVIDIA RTX 3060 GPU
 
